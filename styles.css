@@ -138,6 +138,7 @@ p{
 	max-width: 55ch;
 	text-indent: 2rem;
 	align-items: center;
+	margin: auto;
 }
 
 a{
